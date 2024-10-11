@@ -5,7 +5,7 @@ print(type(name))
 print(name)
 age = 39
 print(age)
-new_age = 40
+new_age = 39+2
 print(new_age)
 is_student = True
 is_student1 = True
